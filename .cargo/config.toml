@@ -1,0 +1,6 @@
+[term]
+graphics = false
+quiet = true
+
+[unstable]
+term-graphics = true
